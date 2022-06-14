@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: "[Feature/Idea]"
-labels: enhancement
+labels: F;enhancement P:Default
 assignees: HPOA909
 
 ---
