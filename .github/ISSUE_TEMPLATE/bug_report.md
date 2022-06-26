@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG(S)]"
-labels: B:bug P:Default
-assignees: HPOA909
+labels: bug
+assignees: ''
 
 ---
 
